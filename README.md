@@ -1,2 +1,2 @@
-# coer-college---demo-
+# coercollege-demo
 This is my first repository 
